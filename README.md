@@ -3,7 +3,7 @@
 > 开发工具：sublime
 
 ## 包括按需加载js和css
-> 按需加载并不是requireJs本身的功能，感谢guybedford大神写的require-css
+> 按需加载css样式表并不是requireJs本身的功能，感谢guybedford大神写的require-css
 源码地址：https://github.com/guybedford/require-css
 
 ### 更新日志
